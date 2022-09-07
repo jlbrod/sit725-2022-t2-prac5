@@ -1,7 +1,7 @@
 {
-  "name": "sit725-2022-t2-prac4",
+  "name": "sit725-2022-t2-prac5",
   "version": "1.0.0",
-  "description": "sit725-Prac4",
+  "description": "sit725-Prac5",
   "main": "server.js",
   "dependencies": {
     "accepts": "^1.3.8",
@@ -17,6 +17,7 @@
     "debug": "^2.6.9",
     "depd": "^2.0.0",
     "destroy": "^1.2.0",
+    "dotenv": "^16.0.2",
     "ee-first": "^1.1.1",
     "encodeurl": "^1.0.2",
     "escape-html": "^1.0.3",
@@ -65,17 +66,17 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlbrod/sit725-2022-t2-prac4.git"
+    "url": "git+https://github.com/jlbrod/sit725-2022-t2-prac5.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jlbrod/sit725-2022-t2-prac4/issues"
+    "url": "https://github.com/jlbrod/sit725-2022-t2-prac5/issues"
   },
-  "homepage": "https://github.com/jlbrod/sit725-2022-t2-prac4#readme"
+  "homepage": "https://github.com/jlbrod/sit725-2022-t2-prac5#readme"
+
 }
